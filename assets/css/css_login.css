@@ -1,0 +1,96 @@
+/*
+Credit: http://www.templatemo.com
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000;
+	background-image:url(../images/123.jpg);
+}
+a {
+	font-weight:bold;
+	color:#991c18;
+	text-decoration:none;
+}
+input[type=text],input[type=password] {
+	height:25px;
+	width:150px;
+	border-radius:3px;
+	border:#016f91 solid 1px;
+	box-shadow:  2px 2px 2px 2px rgba(0, 0, 0, 0.8);
+}
+
+input[type=text]:focus,input[type=password]:focus {
+	border:#000 solid 2px;
+}
+#login {
+	width:430px;
+	background-image:url(../images/login.png);
+	background-repeat:no-repeat;
+	height:425px;
+	padding:10px;
+	margin-left:470px;
+}
+
+.head {
+	font:"Arial Black", Gadget, sans-serif;
+	font-weight:bold;
+	font-size:26px;
+	color:#991c18;
+	margin:15px 0px 0px 50px;
+	float:left;
+}
+
+.form {
+	font:"Arial Black", Gadget, sans-serif;
+	font-weight:bold;
+	font-size:18px;
+	margin:0px 0px 0px 50px;
+	width:120px;
+}
+.input {
+	float:right;
+	margin:-20px 80px 0px 0px;
+	font-weight:bold;
+}
+#but {
+	margin-right:135px;
+	font-size:18px;
+	height:30px;
+	width:90px;
+	border-radius:5px;
+	background-image: -webkit-linear-gradient(top, #8cc4fd, #3ba2ff);
+	background-image: -moz-linear-gradient(top, #8cc4fd, #3ba2ff);
+	background-image: -o-linear-gradient(top, #8cc4fd, #3ba2ff);
+	background-image: linear-gradient(bottom, #8cc4fd, #3ba2ff);
+	box-shadow:  2px 2px 2px 2px rgba(0, 0, 0, 0.8);
+
+}
+#but:hover
+{
+	-webkit-transition-duration: 0.5s;
+	-moz-transition-duration: 0.5s;
+
+	-webkit-transform:scale(1.2);
+	-moz-transform:scale(1.2);
+}
+#templatemo_footer_wrapper {
+	width: 100%;
+	margin: 0 auto;
+	background: #677684 url(../images/templatemo_footer_bg.jpg) repeat-x top;
+}
+
+#templatemo_footer {
+	width: 960px;
+	margin: 0 auto;
+	padding: 31px 10px 15px 10px;
+	color: #cccccc;
+}
+
+#templatemo_footer  a {
+	color: #ffffff;
+}

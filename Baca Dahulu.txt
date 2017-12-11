@@ -1,0 +1,19 @@
+----Dilarang memperjual belikan aplikasi ini tanpa seijin pembuat.----
+
+Catatan :
+1. Aplikasi Ini dibuat saat Uji Kopetensi.
+2. Aplikasi ini berbasis CodeIgniter, Php, Ajax & Json, dan Javascript.
+
+Cara Instal Aplikasi :
+1. Restore Database gudang kedalam Mysql Anda.
+2. Salin Folder gudang ke htdoct anda.
+3. Buka Browser lalu tuliskan "localhost/gudang" (Tanpa Kutip).
+
+Cara Mengakses :
+1. Username : admin || Password : admin
+2. Username : kepala || Password : kepala
+3. Username : pegawai || Password : pegawai
+
+Alur Aplikasi Ada di Ms.PowerPoint.
+
+Terima kasih.
